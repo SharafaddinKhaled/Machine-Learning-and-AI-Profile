@@ -1,4 +1,4 @@
-## Machine-Learning& AI Data Science Project Profile:
+## Machine-Learning & AI Data Science Project Profile:
 
 1. Natural Language Processing - Analyzing Sentiment of Airlines Customers Tweets
  https://github.com/SharafaddinKhaled/NLP-Airline-Tweet-Sentiment-Analysis
